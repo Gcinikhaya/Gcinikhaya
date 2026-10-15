@@ -2,7 +2,7 @@
 
 🎓 Final-Year IT Student at Nelson Mandela University
 
-🔐 Aspiring Cybersecurity Professional
+🔐 Aspiring Cybersecurity Professional (SOC Analyst)
 
 ## 💻 Languages & Technologies I've Worked With
 
